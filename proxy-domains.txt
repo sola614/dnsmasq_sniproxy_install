@@ -82,3 +82,6 @@ optusnet.com.au
 gamer.com.tw
 bahamut.com.tw
 hinet.net
+api-priconne-redive.cygames.jp
+api.worldflipper.jp
+api-umamusume.cygames.jp
