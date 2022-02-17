@@ -85,3 +85,5 @@ hinet.net
 api-priconne-redive.cygames.jp
 api.worldflipper.jp
 api-umamusume.cygames.jp
+dmm.com
+cygames.jp
