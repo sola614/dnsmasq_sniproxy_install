@@ -87,3 +87,4 @@ api.worldflipper.jp
 api-umamusume.cygames.jp
 dmm.com
 cygames.jp
+game-version.sekai.colorfulpalette.org
